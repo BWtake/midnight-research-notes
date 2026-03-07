@@ -11,4 +11,6 @@ Topics covered include:
 - Ecosystem development
 - Relationship with Cardano
 
-This repository is maintained as part of ongoing research into the Midnight ecosystem.
+This research repository explores the Midnight Network ecosystem.
+
+This project analyzes Midnight-related technologies, tokenomics, and community dynamics within the broader Cardano ecosystem.
